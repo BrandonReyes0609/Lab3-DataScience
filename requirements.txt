@@ -1,0 +1,8 @@
+jupyterlab
+sentinelsat
+rasterio
+numpy
+matplotlib
+geopandas
+scikit-image
+earthpy
